@@ -1,1 +1,6 @@
-console.log('it works!');
+export default function works() {
+  // eslint-disable-next-line no-console
+  console.log('it works!');
+}
+
+works();
