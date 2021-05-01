@@ -1,8 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/yoemxn269xfg7wrs?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-env)
+[![Build status](https://ci.appveyor.com/api/projects/status/yoemxn269xfg7wrs?svg=true)](https://ci.appveyor.com/project/valentin-panov/ahj-env)
 
-Боевая версия: https://vapanov.github.io/ahj-env/
-
-MASTER BRANCH [![Build status](https://ci.appveyor.com/api/projects/status/yoemxn269xfg7wrs/branch/master?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-env/branch/master)
+Боевая версия: https://valentin-panov.github.io/ahj-env/
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
